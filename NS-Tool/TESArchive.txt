@@ -1,0 +1,42 @@
+
+方法1：
+1、点击 Edit -- Add Directory,选择转换工具中的Data文件夹
+
+2、再次点击Edit，选择Check All Items 把所有文件选中
+
+3、勾选 Retain Directory Names 和 Retain File Names 
+     不要勾选 Compress Archive 进行压缩（材质不会压缩） ns好像读不了
+
+4、点击File，选择Save As,会跳出提示框（如果勾选 Archive Stats 中类型就不会弹框） 点击 是
+
+5、输入你的bsa文件名，比如xxx,保存。会得到两个文件 xxx.bsa， xxx.bsl（列表文件，没什么用）
+
+
+
+方法2：
+注意：不要把文件路径弄的太长，最好放在桌面或者根目录
+
+1、点击 Root Dir 右边选择你要转换的包含文件夹（游戏目录Data下的）作为根目录
+
+2、拖入上面选中的文件夹/文件夹里要转换的文件夹（例如：meshes textures interface）到程序
+
+3、再次点击Edit，选择Check All Items 把所有文件选中
+
+4、勾选 Retain Directory Names 和 Retain File Names
+     不要勾选 Compress Archive 进行压缩（材质不会压缩） ns好像读不了
+
+5、点击File，选择Save As,会跳出提示框（如果勾选 Archive Stats 中类型就不会弹框） 点击 是
+
+6、输入你的bsa文件名，比如xxx,保存。会得到两个文件 xxx.bsa， xxx.bsl（列表文件，没什么用）
+
+
+
+
+
+
+
+
+
+
+
+
